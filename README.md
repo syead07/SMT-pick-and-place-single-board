@@ -73,14 +73,10 @@ The working of the ETS SMT MATE-660 SMT pick and place machine follows a sequent
 4.	Automotive and aerospace electronic systems – Helps manufacture high-reliability PCBs such as control modules, safety sensors, communication interfaces, and advanced driver-assistance circuits.<br>
 5.	IoT and medical device production – Supports ultra-compact PCB designs for wearables, biomedical sensors, wireless nodes, and miniature embedded systems requiring micro-sized components and fine-pitch ICs.<br>
 
-# Output
-
+### Output
 ## Bare PCB board
-
 <img width="463" height="713" alt="WhatsApp Image 2026-11-03 at 8 50 12 AM" src="https://github.com/user-attachments/assets/deb12814-41db-4214-9b26-bacc3ac080f8" />
-
 ## Bare PCB board with components
-
 <img width="492" height="754" alt="WhatsApp Image 2026-11-03 at 8 50 06 AM" src="https://github.com/user-attachments/assets/b80d7492-c2ed-4bc6-9b12-8c36713d1558" />
 
 # Result
